@@ -122,7 +122,7 @@ Kiroween was designed for Kiro developers as a fun opportunity to experiment wit
 ### Home screen
 ![Image](https://github.com/cosmic-frey/Kiroween-Hackathon/blob/main/tamaghosty%20pics/tamaghosty%20home.png) 
 **Angry Response:**
-![Image]()
+![Image](https://github.com/cosmic-frey/Kiroween-Hackathon/blob/main/tamaghosty%20pics/tamaghosty%20angry.png)
 ### Study Zone
 **Study Timer Off:**
 ![Image](https://github.com/cosmic-frey/Kiroween-Hackathon/blob/main/tamaghosty%20pics/tamaghosty%20study%20timer%20off.png)
