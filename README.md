@@ -6,7 +6,7 @@ You killed your Tamagotchi at age 8, and now...
 Introducing Tamaghosty! Having grown up (and been resurrected), you now know that caring for each other is just as important.
 
 ## Demo Video:
-
+Below is my three minute demo video for the Kiroween Hackathon submission. I have also included Feature Stills below App Features.
 ## Inspiration:  
 I was inspired to create this project after reading through the Kiroween Hackathon Submission guidelines. As this was my first Hackathon (and first solo Hackathon) I wanted to make sure that I fully understood the entry and judging criteria.   
 
@@ -123,18 +123,63 @@ Kiroween was designed for Kiro developers as a fun opportunity to experiment wit
 ## Tamaghosty Value:
 
 ## The Development Process, What Worked and What Did Not:
+### What I learnt through development:
+So, I've never worked with CSS, Javascript or React before (the closest I've come is pretending that Java is the same as Javascript, to wind people up). I'm a Biology Student who's interested in tech, so originally I thought that coding in R, Python and a bit of C++ would be good enough. I realised the error of my ways very quickly. Getting familiar with Javascript was a steep learning curve, as visually it looks so different to R, Python and C++. However, this project and using Kiro for explanations has really helped me to understand how Javascript is implemented.   
+
+As most people Hackathon newbies, I planned my initial design poorly and I was far too ambitious. After a few minutes of struggle I took myself back to the drawing board (literally) and laid out my initial ideas on paper before summarising them on my laptop. I then broke down each section of the app and decided which aspects to prioritise, before taking my ideas to Kiro.
+
+### What worked:   
+Kiro was great for getting the initial ball rolling. I was able to lay out my ideas and time frame, and Kiro was able to suggest feasible alternatives.
+- **Initial Vibe coding:** I was blown away by how fast Kiro was able to create the project skeleton (which made me regret not chosing the Skeleton Code Category), whilst many aspects of the App did not yet function, the basic UI was there.
+- **Kiro Hooks that were super helpful:**
+  - On file create (helpful for boilerplate code)
+  - Manual triggers:
+    - Explain how this element functions
+    - Explain why this code block is important
+    - Add comments for each file so that I can learn better
+    - Update Development notes
+    - Also helpful for debugging and explaining bugs
+- **Steering:** Initially I forgot to create steering docs, Kiro kept changing my code without permission, and I kept getting frustrated. Then, I remembered why these were so important (typical newbie error) and implemented steering. After steering was implemented I was in complete control again, and didn't need to take frequent breaks to decompress (ironic for a self-care App).
+- **MCPs:** Again, like with steering this was something I did not fully utilise until part way through (although for a different reason). Initially I thought I had configured the MCP servers, I later found out this was either not the case or they had been de-configured. This was most helpful with fixing the cursor tracking element of Tamaghosty, as I ran into a lot of errors that Kiro could not explain nor fix. (Thank you [Josh Comeau](https://www.joshwcomeau.com/) for your helpful explanations of mouse tracking with visual elements.)
+### What did not work:
+- I gave up on my idea of generating CSS backgrounds that could be interacted with by both the users and Tamaghosty. In my head the idea of Tamaghosty flying around the library and interacting with books sounded great, in practice this would have had to be an animation sequence that I simply did not have time for.
+- I also gave up on my idea of Tamaghosty being a 3D sprite. I really wanted to create tamaghosty in CSS (and avoid Blender), however I struggled to make tamaghosty into the 3D character I had envisioned. In the end I ended up altering the 2D Tamaghosty manually, because Kiro appeared to struggle with enacting exact changes in visual elements.
+- Initially I wanted Tamaghosty to physically follow the cursor around on the home page, however I preferred the eagerness of just their eyes following the cursor instead, so I removed this element from my plan.
+- Facilitating the growing Tamaghosty idea in stopwatch mode was a struggle, as initially they would stack on top of each other and not appear until the stopwatch had finished. 
+### What I would do differently next time:
+Practice is key. This was my first time using these languages, so I struggled to check through code that Kiro could not fix. I ended up looking up a lot of the problems I had and feeding them back for Kiro to explain (which often didn't help if Kiro could not find the error), and when this failed I resorted to asking GitHub copilot. Having a more functional knowledge of the language would have been beneficial, and I definitely have a far greater knowledge of Javascript than I did before I started making Tamaghosty.   
+
+Next time I would make more use of MCPs and implement steering earlier, to avoid set-backs.    
+There are so many more things I could add to this project which I cannot due to time constraints, such as:
+- Sound effects (for Tamaghosty, page flicking in the journal, etc) and music (creepy background music, music options for studying and mindfulness, etc)
+- Music options for the Study Zone (rain sounds, thunder, cafe ambiance, jazz, etc)
+- A flash card and spaced repitition area within the Study Zone
+- A calendar in the Study Zone to track what subjects/topics you have studied and when
+- Meditation and mindfulness music for the No Stress Zone
+- Movement of Tamaghosty in the library
+- Increased security
+- Account creation
+- Leaderboard stats
+- Hydration tracking by taking a picture of your water (requires an ML model)
+- Better Tamaghosty eating graphics
+- Including the poo pick-up element from the original Tamagotchi (which I definitely enjoyed when I was younger) on the App home screen
 
 
 ## How I used Kiro to create Tamaghosty:  
 ### Conversation structure:  
-
+- I structured conversations through short in-depth commands/questions
+- I found that Kiro would often say "Understood" and then not actually respond, which required repetitive requests until Kiro responded.
+- The generation of a new conversation (after conversation grew too long), would often happen mid way through a response, and lead to the build up of incomplete or repeated code-blocks. This is an issue that should be solved in Kiro (i.e. Kiro should finish a response before starting a new conversation, or not commit to a response until a new conversation has started)
+- Steering docs help in a very limited capacity in an overall project.
+- Check points were helpful to immediately remove a fix that did not work, but appear somewhat inaccessible for individuals who may be visually impaired (too small, not labelled by the change made, colour too similar to the background)
 ### Agent hooks:   
-
+- Described above in the "What worked" section
 ### Spec-driven development:
-
+- I did not implement this enough in the beginning, however creating a logical decision point workflow was helpful and I would implement this more if I were to expand on this project further.
 ### Steering docs:   
-
+- Described above in the "What worked" section
 ### MCP:
+- Described above in the "What worked" section
 
 
 
