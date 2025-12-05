@@ -10,7 +10,7 @@ https://tamaghosty.vercel.app/
 
 ## Demo Video:
 Below is my three minute demo video for the Kiroween Hackathon submission. I have also included Feature Stills below App Features.
-![Video](https://youtu.be/nX5HaqN9U-c)
+[![Watch Video](https://i9.ytimg.com/vi/nX5HaqN9U-c/mqdefault.jpg?v=6932ee7f&sqp=CJjiy8kG&rs=AOn4CLD1S3HgXa39274-4LbI9kAJYQ9bwA)](https://youtu.be/nX5HaqN9U-c)
 ## Inspiration:  
 I was inspired to create this project after reading through the Kiroween Hackathon Submission guidelines. As this was my first Hackathon (and first solo Hackathon) I wanted to make sure that I fully understood the entry and judging criteria.   
 
