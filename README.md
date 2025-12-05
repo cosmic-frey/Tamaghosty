@@ -39,7 +39,7 @@ I decided rather arbitrarily that the Ressurection and Costume Contest categorie
 Kiroween was designed for Kiro developers as a fun opportunity to experiment with Kiro and leverage the full gamut of features and capabilities it offers. This is your moment to create something unforgettable. Get inspired by Kiroween’s special spooky factor, summon your ideas, and git commit to the darkness. **"**   
   
 
-## Why I beleive Tamaghosty fits into three categories:
+## Why I believe Tamaghosty fits into three categories:
 - **1) Resurrection:** This is a more obvious category to argue, as Tamaghosty is simply a re-imagining of Tamagotchi (but with real-world applications relevant to student life).
 - **2) Costume Contest:** I spent a lot of time on the aesthetics of this app. I love horror movies due to how much detail and how many easter eggs they add into the backgrounds of scenes, and I wanted to emulate this in the Tamaghosty home screen (watch out for strange movements).
 - **3) Frankenstein:** The idea of re-imagining also plays into the Frankenstein category. Whilst Tamaghosty (the Tamagotchi re-imagining) is still interactive, I joined it with the idea of a self-care and study app as this is generally a combination I don't seem to find. I'm a student, so in my opinion self-care and studying should go hand-in hand. This app combines a re-imagined Tamagotchi (Tamaghosty), a study timer, a hydration tracker, a meal tracker, guided mindfulness and breathing exercises, and a journal with journalling promts.
