@@ -35,7 +35,7 @@ I decided rather arbitrarily that the Ressurection and Costume Contest categorie
   
 
 ## Why I beleive Tamaghosty fits into three categories:
-- **Ressurection:** This is a more obvious category to argue, as Tamaghosty is simply a re-imagining of Tamagotchi (but with real-world applications relevant to student life).
+- **Resurrection:** This is a more obvious category to argue, as Tamaghosty is simply a re-imagining of Tamagotchi (but with real-world applications relevant to student life).
 - **Costume Contest:** I spent a lot of time on the aesthetics of this app. I love horror movies due to how much detail and how many easter eggs they add into the backgrounds of scenes, and I wanted to emulate this in the Tamaghosty home screen (watch out for strange movements).
 - **Frankenstein:** The idea of re-imagining also plays into the Frankenstein category. Whilst Tamaghosty (the Tamagotchi re-imagining) is still interactive, I joined it with the idea of a self-care and study app as this is generally a combination I don't seem to find. I'm a student, so in my opinion self-care and studying should go hand-in hand. This app combines a re-imagined Tamagotchi (Tamaghosty), a study timer, a hydration tracker, a meal tracker, guided mindfulness and breathing exercises, and a journal with journalling promts.
 
@@ -58,6 +58,11 @@ I decided rather arbitrarily that the Ressurection and Costume Contest categorie
     - Tamaghosty Blinks!
     - Tamaghosty speaks when interacted with
 - **Study Zone:**
+  - 25, 45 and 60 minute study timers
+  - A cute little Tamaghosty that winks!
+  - The stopwatch mode records time spent studying, and Tamaghosty tells you how long this was (they're the ultimate cheerleader)
+  - After stop watch/timer finishes, confetti explodes and you are congratulated!
+  - 
 - **Hydration Zone:**
 - **No Stress Zone:**
 - **The Journal Zone:**
