@@ -122,17 +122,27 @@ Kiroween was designed for Kiro developers as a fun opportunity to experiment wit
 ### Home screen
 ![Image](https://github.com/cosmic-frey/Kiroween-Hackathon/blob/main/tamaghosty%20pics/tamaghosty%20home.png) 
 ### Study Zone
-
+**Study Timer Off:**
+![Image](https://github.com/cosmic-frey/Kiroween-Hackathon/blob/main/tamaghosty%20pics/tamaghosty%20study%20timer%20off.png)
+**Study Timer On:**
+![Image](https://github.com/cosmic-frey/Kiroween-Hackathon/blob/main/tamaghosty%20pics/tamaghosty%20timer%20on.png)
+**Stopwatch Off:**
+![Image](https://github.com/cosmic-frey/Kiroween-Hackathon/blob/main/tamaghosty%20pics/tamaghosty%20stopwatch%20off.png)
+**Stopwatch On (with spawning set to 10 seconds for demo):**
+![Image](https://github.com/cosmic-frey/Kiroween-Hackathon/blob/main/tamaghosty%20pics/stopwatch%20(set%20to%20spawn%20every%2010%20seconds%20as%20a%20demo).png)
 ### Hydration Tracker
-
-
+![Image](https://github.com/cosmic-frey/Kiroween-Hackathon/blob/main/tamaghosty%20pics/tamaghosty%20hydration%20tracker.png)
 ### Stress free Zone
-
-
+**Breathing Exercises Off:**
+![Image](https://github.com/cosmic-frey/Kiroween-Hackathon/blob/main/tamaghosty%20pics/tamaghosty%20breathing%20exercise%20off.png)
+**Breathing Exercises On:**
+![Image](https://github.com/cosmic-frey/Kiroween-Hackathon/blob/main/tamaghosty%20pics/tamaghosty%20breathing%20exercise%20on.png)
+**Guided Minfulness On:**
+![Image](https://github.com/cosmic-frey/Kiroween-Hackathon/blob/main/tamaghosty%20pics/tamaghosty%20guided%20minfulness.png)
 ### Journal
-
-
+![Image](https://github.com/cosmic-frey/Kiroween-Hackathon/blob/main/tamaghosty%20pics/tamaghosty%20journal.png)
 ### Meal Tracker
+![Image](https://github.com/cosmic-frey/Kiroween-Hackathon/blob/main/tamaghosty%20pics/tamaghosty%20meal%20tracker.png)
  
 ## Tamaghosty Value:
 As a student, I have used my fair share of Study Apps. My current favourites are Forest (growing trees) and Gizmo (a gameified flashcard app). I like that in Forest there is a reward for working (a new tree), that you can look back on all the trees you have planted, and there are sound packages you can 'buy' with coins earnt in the game. With Gizmo I like that it is gameified, as it is interactive and gives extra incentive to keep learning (unlike Quizlet and Anki, which tend to be very basic in design). Popular self-care or mindfulness apps tend to primarily exist behind subscription pay walls (such as Calm), and can be inaccessible on a student budget. The combination of a Self-Care app meets Study tool allows basic student needs to be met in one place. This combined with the nostalgia of a childhood toy will keep you coming back for more!
